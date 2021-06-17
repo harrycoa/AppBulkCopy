@@ -1,0 +1,7 @@
+c:\users\harry\source\repos\AppBulkCopy\AppBulkCopy\bin\Debug\AppBulkCopy.exe.config
+c:\users\harry\source\repos\AppBulkCopy\AppBulkCopy\bin\Debug\AppBulkCopy.exe
+c:\users\harry\source\repos\AppBulkCopy\AppBulkCopy\bin\Debug\AppBulkCopy.pdb
+c:\users\harry\source\repos\AppBulkCopy\AppBulkCopy\obj\Debug\AppBulkCopy.csprojResolveAssemblyReference.cache
+c:\users\harry\source\repos\AppBulkCopy\AppBulkCopy\obj\Debug\AppBulkCopy.csproj.CoreCompileInputs.cache
+c:\users\harry\source\repos\AppBulkCopy\AppBulkCopy\obj\Debug\AppBulkCopy.exe
+c:\users\harry\source\repos\AppBulkCopy\AppBulkCopy\obj\Debug\AppBulkCopy.pdb
